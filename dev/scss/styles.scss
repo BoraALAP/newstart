@@ -1,0 +1,74 @@
+
+/**************************         
+IMPORT
+***************************/     
+@import "_imports.scss"; // media queries - if needed 
+
+
+/**************************
+TEMPLATES begin 
+***************************/   
+/*-----------------------------------------------------------------------------------
+
+        ! ! !    R E A D   T H I S    ! ! !  
+        -----------------
+         
+        It's recomended to use/create a custom css file (or place them at the end of this file) to do you customizations in order to easily update the main css files without loosing your changes
+        
+        
+        > > Please take also a look at the documentation file.       
+    
+
+/*-----------------------------------------------------------------------------------
+
+    0.  RESET & CLEARFIX 
+    1.  BASICS (body, headers, links, etc)
+    2.  GENERAL ELEMENTS
+    3.  HOME PAGE
+    4.  PAINTING PAGE
+    5.  FOOTER 
+    6.  NAVIGATION & MENU 
+    7.  SLIDER
+    8.  SECTION
+    9.  PAGETITLE
+    10. MASONRY (Portfolio/Blog)
+    11. PAGINATION
+    12. SHARE 
+    13. FILTER
+    14. BLOG
+    15. SPLIT SECTION
+    16. COLUMNS GRID
+    17. MAP
+    18. ELEMENTS / SHORTCODES
+    19. IMG OVERLAY
+    20. BORDERS  
+    21. PAGE INSTALL
+    22. CUSTOM
+     
+-----------------------------------------------------------------------------------*/
+/*---------------------------------------------- 
+2. GENERAL ELEMENTS
+------------------------------------------------*/
+
+h1{
+    
+}
+html{
+    @include scrollbars(0.5em, $black);  
+}
+
+body{
+    margin:0;
+    padding:0;  
+}
+
+
+/*---------------------------------------------- 
+3. HOME PAGE
+------------------------------------------------*/
+
+
+
+
+
+

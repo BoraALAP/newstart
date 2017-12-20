@@ -1,0 +1,113 @@
+*{
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0 ;    
+}
+
+h1{
+    font:{
+        family: $font1;
+        size: 3em;
+        weight:900;
+    }
+}
+
+h2{
+    font:{
+        family: $font1;
+        size: 2.5em;
+        weight:700;
+    }
+}
+
+h3{ 
+    font:{
+        family: $font1;
+        size: 2em;
+        weight:700;
+    }
+}
+
+h4{
+    font:{
+        family: $font1;
+        size: 1.5em;
+        weight:700;
+    }
+}
+ 
+h5{
+    font:{
+        family: $font1;
+        size: 1.2em;
+        weight:700;
+    }
+    margin-bottom: 3vh;
+}
+
+h6{
+    font:{
+        family: $font1;
+        size: 0.9em;
+        weight:400;
+    }
+}
+
+p{ 
+    font:{
+        family: $font1;
+        size: 0.75em;
+        weight:300;
+    }
+    margin:0;
+    color: $gray4; 
+    line-height:2em;
+   
+}
+
+a{
+    text-decoration:none;
+}
+
+nav{
+    a{
+        font:{
+            family: $font1;
+            size: 0.75em;
+            weight:500;
+        }
+        text-decoration:none;
+    }
+}
+
+
+/*******************      Button       ********************/
+
+.btn{
+    border: 1px solid $black;
+    padding: 10px 0;
+    background: $black;
+}
+
+button{
+    border:none;
+    background:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
