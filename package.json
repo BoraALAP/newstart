@@ -17,9 +17,12 @@
   },
   "homepage": " ",
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
     "browser-sync": "^2.19.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^7.0.0",
     "gulp-clean-css": "latest",
     "gulp-coffee": "latest",
     "gulp-concat": "latest",
@@ -34,5 +37,8 @@
   },
   "dependencies": {
     "gulp-browserify": "^0.5.1"
-  }
+  },
+  "presets": [
+    "env"
+  ]
 }

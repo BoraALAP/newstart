@@ -1,0 +1,58 @@
+{
+    "slides": [
+        {
+            "id":1,
+            "url":"assets/img/enterence2.jpg",
+            "title": "Welcome to Arttic Fox",
+            "description": ["We are a Digital Shop that is trying to help small businesses and start-ups. We are specilized on Web Design and Development, as well as Application Design. Our studio cares for User Experience of the websites and applications we design."],
+            "list": [],
+            "status": "",
+            "link": ""
+        },
+        {
+            "id":2,
+            "url":"assets/img/istanbul.jpg",
+            "title": "Istanbul Cafe",
+            "description": ["Istanbul cafe is located at heart of Yonge and Eglington. It is one of the best Turkish Coffee in Toronto.","We needed to create a web presence for them. This simple Wordpress website displayed the essence of the brand and the taste of the Turkish culture."],
+            "list": [ "UX / UI", "Web Design","Wordpress Websites","Brand Strategy","SEO / Analytics"],
+            "status": "Go to the Website >",
+            "link": "http://istanbulcafe.ca"
+        },
+        {
+            "id":3,
+            "url":"assets/img/noblenetworks.jpg",
+            "title": "Noble Networks",
+            "description": ["Noble Networks is an IT Firm located in Toronto. They are a partner of ours and we created their website. They help out their clients like us in any way they can.", "We are currently working on their new website."],
+            "list": [ "UX / UI", "Web Design","SEO / Analytics","Brand Strategy","SEO / Analytics","Strategic Explorations"],
+            "status": "Sorry, temporarily not available.",
+            "link": ""
+        },
+        {
+            "id":4,
+            "url":"assets/img/silvercomet.jpg",
+            "title": "Silver Comet Auto",
+            "description": ["Silver Comet Auto, came to us a few years ago and they were just launching their brand. They are a strong competitor in Mississauga area as a second-hand car dealer.", "We created a brand strategy as well as Logo and all the print pieces. We Also built a website with WordPress for them. Since they had unique requirements, we had to come up with a different solution."],
+            "list": [ "UX / UI", "Custom Coding", "WireFraming", "Web Design", "Wordpress Websites", "Brand Strategy", "Strategic Explorations","SEO / Analytics"],
+            "status": "Go to the Website >",
+            "link": "http://silvercometauto.com"
+        },
+        {
+            "id":5,
+            "url":"assets/img/searchengine.jpg",
+            "title": "Search Engine Films",
+            "description": ["Search Engine Films is a well-established film distributor and production company based in Toronto. Since they needed to change the content and information on the site frequently, we provided a user-friendly and clean client facing back-end."],
+            "list": [ "Web Design","Wordpress Websites","Custom Coding" ,"SEO / Analytics"],
+            "status": "Go to the Website >",
+            "link": "http://searchenginefilms.com"
+        },
+        {
+            "id":6,
+            "url":"assets/img/abbolitafilms.jpg",
+            "title": "Abbolita Films",
+            "description": ["When we had a chance to help Abbolita Films, they had a really short deadline because of the festivals. In a really short period of time, we could build a really nice website."],
+            "list": [ "UX / UI", "Web Design","Wordpress Websites" ,"SEO / Analytics"],
+            "status": "Go to the Website >",
+            "link": "http://abbolitafilms.com/"
+        }
+    ]
+}

@@ -7,7 +7,9 @@ const concat = require('gulp-concat');
 const cleanCSS = require('gulp-clean-css');
 const browserSync = require('browser-sync').create();
 const browserify = require('gulp-browserify');
+const babel = require("gulp-babel");
 const uglify = require('gulp-uglify');
+
 
 const src = 'dev/', dist = 'public/';
 
@@ -31,8 +33,10 @@ gulp.task('sass', function() {
 
 gulp.task('js', function () {
   return gulp.src(src+'script/**/*.js')
+      
       .pipe(browserify())
-      .pipe(uglify())
+      // .pipe(uglify())
+      .pipe(babel())
       .pipe(concat('main.js'))
       .pipe(gulp.dest(dist+'js'))
 });
@@ -49,7 +53,7 @@ gulp.task('watch', ['js'], function() {
   }
   });
   gulp.watch(src+"script/*.js", ['js-watch']);
-  gulp.watch(src+"scss/*.scss", ['sass']);
+  gulp.watch(src+"scss/**/*.scss", ['sass']);
   
   gulp.watch("*.html").on('change', browserSync.reload);
 });

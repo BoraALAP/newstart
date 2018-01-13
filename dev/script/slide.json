@@ -1,0 +1,39 @@
+{
+    "slides": [
+        {
+            "id":1,
+            "url":"istanbul.jpg",
+            "title": "Istanbul Cafe",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, laudantium, magni voluptatum sed laboriosam velit suscipit delectus labore inventore doloremque quisquam officia voluptate saepe. Neque dolorum temporibus quae optio dignissimos.",
+            "list": [ "UX / UI", "Web Design","Wordpress Websites","Brand Strategy","SEO / Analytics"]
+        },
+        {
+            "id":2,
+            "url":"noble.jpg",
+            "title": "Noble Networks",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, laudantium, magni voluptatum sed laboriosam velit suscipit delectus labore inventore doloremque quisquam officia voluptate saepe. Neque dolorum temporibus quae optio dignissimos.",
+            "list": [ "UX / UI", "Web Design","Wordpress Websites","Brand Strategy","SEO / Analytics"]
+        },
+        {
+            "id":3,
+            "url":"silver.jpg",
+            "title": "Silver Comet Auto",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, laudantium, magni voluptatum sed laboriosam velit suscipit delectus labore inventore doloremque quisquam officia voluptate saepe. Neque dolorum temporibus quae optio dignissimos.",
+            "list": [ "UX / UI", "Web Design","Wordpress Websites","Brand Strategy","SEO / Analytics"]
+        },
+        {
+            "id":4,
+            "url":"search.jpg",
+            "title": "Search Engine Films",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, laudantium, magni voluptatum sed laboriosam velit suscipit delectus labore inventore doloremque quisquam officia voluptate saepe. Neque dolorum temporibus quae optio dignissimos.",
+            "list": [ "UX / UI", "Web Design","Wordpress Websites","Brand Strategy","SEO / Analytics"]
+        },
+        {
+            "id":5,
+            "url":"abbolita.jpg",
+            "title": "Abbolita Films",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, laudantium, magni voluptatum sed laboriosam velit suscipit delectus labore inventore doloremque quisquam officia voluptate saepe. Neque dolorum temporibus quae optio dignissimos.",
+            "list": [ "UX / UI", "Web Design","Wordpress Websites","Brand Strategy","SEO / Analytics"]
+        }
+    ]
+}
